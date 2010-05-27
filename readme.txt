@@ -4,7 +4,9 @@ Tags: wincache, phponwindows, widget
 Stable tag: trunk
 Requires at least: 2.8
 Tested up to: 2.9
+Widget to show wincache statistics.
 
+== Description ==
 This widget lets you display wincache (http://www.iis.net/expand/wincacheforphp) statistics on your wordpress site. Statistics shown are total number of entries in cache, hit count and hit ratio, miss count and miss ratio. You can configure widget to show opcode cache, file cache, object cache and session cache statistics.
 
 == Installation ==
